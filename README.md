@@ -1,7 +1,7 @@
 # projetoJPA
 aulas sobre introdução a JPA - Ferramentas de Programação 1
 
-JPA
+# Anotações
 @Entity
 @Table
 @Id
