@@ -1,2 +1,10 @@
 # projetoJPA
-aulas sobre introdução à JPA - Ferramentas de Programação 1
+aulas sobre introdução a JPA - Ferramentas de Programação 1
+
+JPA
+@Entity
+@Table
+@Id
+@GenerateValue
+@Column
+@ManyToOne
